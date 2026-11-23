@@ -22,13 +22,19 @@ Pytest: 9.2.0
 
 ## 2. Computador - Integrante 2
 
-- **Processador:** [Nome do processador]
-- **RAM instalada:** [Quantidade de RAM]
-- **Edição do Windows:** [Edição]
-- **Versão do Windows:** [Versão]
+- **Processador:** 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+- **RAM instalada:** 4,00 GB (utilizável: 3,79 GB)
+- **Edição do Windows:** Windows 11 Home Single Language
+- **Versão do Windows:** 25H2
 
 ### Versões do Python e Bibliotecas
 
-```text
-[Coloque aqui a saída do verificar_ambiente.py]
+```
+Versão do Python: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+Requests: 2.34.2
+Pandas: 2.3.3
+Matplotlib: 3.11.2
+PyET: 1.5.0
+Pytest: 9.2.0
+((venv) )
 ```
