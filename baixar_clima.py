@@ -113,7 +113,7 @@ def main():
 
         tabela = json_para_tabela(dados)
 
-        tabela.to_csv(caminho_csv, index=True)
+        tabela.to_csv(caminho_csv, index=True, index_label="data")
 
         print(f"CSV salvo: {caminho_csv}")
 
